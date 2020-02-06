@@ -2,7 +2,6 @@
 
 class Solution 
 {
-
 private:
     
     struct TrieNode
