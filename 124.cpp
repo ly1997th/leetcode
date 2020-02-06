@@ -1,7 +1,7 @@
 //124. Binary Tree Maximum Path Sum
 
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree node
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
