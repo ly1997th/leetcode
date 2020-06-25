@@ -35,3 +35,4 @@
 #Code
 *.ipch
 *.json
+*test.cpp
